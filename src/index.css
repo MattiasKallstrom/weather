@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-gray-900 flex items-center justify-center;
+    font-family: 'Nunito', sans-serif;
+  }
+
+  .container {
+    @apply relative z-10;
+    background: linear-gradient(140deg, #000 90%, #fff 10%);
+    background-size: cover;
+  }

@@ -1,0 +1,1 @@
+Simple App fetching weather details from the OpenWeather API
